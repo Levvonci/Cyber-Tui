@@ -1,0 +1,13 @@
+/target/
+
+*.log
+/tmp/cyber-tui-perf.log
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+.DS_Store
+Thumbs.db
